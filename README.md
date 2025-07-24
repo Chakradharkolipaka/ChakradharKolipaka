@@ -12,7 +12,7 @@
     <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/solidity-101.png" width="90" alt="Cyfrin Solidity Badge"/>
   </a>
   <a href="https://sepolia.etherscan.io/token/0x76b50696b8effca6ee6da7f6471110f334536321?a=3771" target="_blank">
-    <img src="https://ipfs.io/ipfs/QmZdPncUtsq71DxVtebbGdCUS28SvrCWoeVigCAdo1CZ5b" width="90" alt="Foundry Course NFT"/>
+    <img src="https://ipfs.io/ipfs/QmZdPncUtsq71DxVtebbGdCUS28SvrCWoeVigCAdo1CZ5b" width="120" alt="Foundry Course NFT"/>
   </a>
 </div>
 
