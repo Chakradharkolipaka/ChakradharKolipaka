@@ -1,4 +1,8 @@
-## Hi there 👋
+## My Onchain Achievements
+
+<a href="https://sepolia.etherscan.io/token/0x76b50696b8effca6ee6da7f6471110f334536321?a=3771" target="_blank">
+  <img src="https://ipfs.io/ipfs/QmZdPncUtsq71DxVtebbGdCUS28SvrCWoeVigCAdo1CZ5b" width="120" alt="Foundry Course NFT"/>
+</a>
 
 <!--
 **Chakradharkolipaka/Chakradharkolipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
