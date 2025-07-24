@@ -27,17 +27,9 @@ Pursuing B Tech in CSE (Cybersecurity)
   </li>
 </ul>
 </div>
-
+<br>
 <!-- Social links row -->
-<h3 align="center" style="margin-bottom:8px; color:#494962;">Connect with me:</h3>
-<div style="
-  display: flex; 
-  align-items: center; 
-  gap: 18px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 16px 0 24px 0;
-">
+<h3 align="center" style="margin-bottom:8px; color:#494962;">Connect with me:</h3> <hr>
 <div style="display:flex;justify-content:center;gap:12px;margin-bottom:20px;flex-wrap:wrap;">
   <a href="https://twitter.com/chakradhar__k" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="36" style="filter:drop-shadow(0 2px 4px #aaf2e7cc);" />
@@ -61,7 +53,7 @@ Pursuing B Tech in CSE (Cybersecurity)
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="36" style="filter:drop-shadow(0 2px 4px #c7bfffcc);" />
   </a>
 </div>
-
+<br>
 <!-- Badges row with effects and box shadows on hover -->
 <h2 style="color:#4d4a73;margin-bottom:10px;">NFTs and Badges <span style="font-size:0.76em;">(Click to check CREDENTIALS)</span></h2>
 <div style="
@@ -98,17 +90,10 @@ Pursuing B Tech in CSE (Cybersecurity)
      style="border-radius:18px;border:3px solid #f7e9ff;box-shadow:0 3px 12px #cce8c844;transition:0.24s;">
   </a>
 </div>
+<br>
 
 <!-- Languages and tools section, with more spacing and a neat box -->
-<h3 align="center" style="margin-top:32px; color:#434390;">Languages and Tools</h3>
-<div style="
-  display: flex; 
-  align-items: center; 
-  gap: 18px;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 16px 0 24px 0;
-">
+<h3 align="center" style="margin-top:32px; color:#434390;">Languages and Tools</h3> <hr>
 <div style="background:#fff5fc;font-size:1.09em;padding:10px 18px 14px 18px;border-radius:13px;display:inline-block;box-shadow:0 2px 11px #4dd3de11;margin-bottom:16px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin:9px;"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin:9px;"/></a>
