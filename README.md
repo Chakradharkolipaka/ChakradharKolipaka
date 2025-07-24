@@ -111,7 +111,7 @@ Pursuing B Tech in CSE (Cybersecurity)
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:9px;"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:9px;"/></a>
 </div>
-
+<br>
 <!-- Top languages box -->
 <p style="margin:32px auto 10px auto;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradharkolipaka&show_icons=true&locale=en&layout=compact" alt="chakradharkolipaka" style="margin:0 auto;"/>
