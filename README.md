@@ -1,7 +1,7 @@
 <a href="https://sepolia.etherscan.io/token/0x76b50696b8effca6ee6da7f6471110f334536321?a=3771" target="_blank">
   <img src="https://ipfs.io/ipfs/QmZdPncUtsq71DxVtebbGdCUS28SvrCWoeVigCAdo1CZ5b" width="90" alt="Foundry Course NFT"/>
 </a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5e6ac8f4-2d07-47fc-b576-07104beb3259" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--
 **Chakradharkolipaka/Chakradharkolipaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
