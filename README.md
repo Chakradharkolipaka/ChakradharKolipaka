@@ -42,7 +42,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradharkolipaka&show_icons=true&locale=en&layout=compact" alt="chakradharkolipaka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakradharkolipaka&" alt="chakradharkolipaka" /></p>
 
 
 
